@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: some great sites
-datePublished: '2016-05-09T00:34:30.665Z'
-dateModified: '2016-05-09T00:34:11.325Z'
+datePublished: '2016-05-09T00:35:10.846Z'
+dateModified: '2016-05-09T00:34:39.982Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-09-some-great-sites.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-some-great-sites.md
 url: some-great-sites/index.html
 _type: Article
 
