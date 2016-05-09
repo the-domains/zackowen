@@ -1,0 +1,28 @@
+name: zackowen
+favicon: null
+layout_spectrum: 0.8663625405170023
+typography_spectrum: 0.3696154681965709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.37241831491701305
+  lightness: 0.5819771862588823
+  saturation: 0.02543338481336832
+  rhythmicContrast: 0.5033226008526981
+purpose: []
