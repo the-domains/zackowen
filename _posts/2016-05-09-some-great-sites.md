@@ -1,32 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: some great sites
-datePublished: '2016-05-09T00:45:41.038Z'
-dateModified: '2016-05-09T00:35:19.991Z'
-title: ''
-author: []
+datePublished: '2016-08-22T02:34:28.023Z'
 sourcePath: _posts/2016-05-09-some-great-sites.md
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-22T02:34:27.731Z'
+title: ''
+publisher: {}
+description: Helpful Links
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: some-great-sites/index.html
 _type: Article
 
 ---
-some great sites
+Helpful Links
+
+• https://unsplash.com/
+
+• http://losttype.com/
 
 • http://giphy.com/
 
 • http://abduzeedo.com/
-
-• https://unsplash.com/
-
-•
