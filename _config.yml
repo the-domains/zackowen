@@ -1,19 +1,4 @@
-name: zackowen
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.15708
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#024959'
@@ -25,4 +10,20 @@ color:
   lightness: 0.875
   saturation: 0.125
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: zackowen
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Graphic Designer & Photographer
 purpose: []
